@@ -1,1 +1,25 @@
-# GSOC_Markdown_Editor
+# Markdown Notes Editor
+![](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
+![](https://camo.githubusercontent.com/60155f4543422e46101b7edb0fc701c872d9190b23dc33cb47bd1ac15d80dec1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![](https://camo.githubusercontent.com/e8ba07fa7cc79831afca90c574b74f1eefd0bf76af4e498cb0674330a1634e2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3233393132303f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
+## Frontend
+## Sign In/Sign Up Page
+![](public/login.png)
+## Main Page
+![](public/main-page.png)
+ ## Description
+ A markdown editor with sign in and sign up page.
+
+***
+## Installation and Usage
+
+- Read [CONTRIBUTING.md](CONTRIBUTING.md) file
+- Clone this repository.
+- Install all dependencies by running 
+```
+npm install
+```
+- Run the developement server
+```
+npm start
+```
